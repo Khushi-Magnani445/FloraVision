@@ -1,6 +1,6 @@
 import background from "../assets/background.jpg";
 import Aglaonema from "../assets/Aglaonema.png";
-import Profile from "../assets/Profile.png";
+import Profile from "../assets/profile.png";
 import desk_decor from "../assets/desk_decor.png";
 import bag from "../assets/bag.png";
 import rose_gold_desk_decor from "../assets/rose_gold_desk_decor.png";
